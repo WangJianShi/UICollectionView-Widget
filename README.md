@@ -1,0 +1,2 @@
+# UICollectionView-Widget
+高级封装UICollectionView,秉承数据即试图的思想，不再需要写烦人的数据源代理
