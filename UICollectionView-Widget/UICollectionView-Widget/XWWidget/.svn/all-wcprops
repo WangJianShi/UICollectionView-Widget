@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/1184327589.XWModule/!svn/ver/4/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget
+END
+XWCollectionViewFlowLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWCollectionViewFlowLayout.h
+END
+XWCollectionViewDelegateManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWCollectionViewDelegateManager.h
+END
+XWWeakObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWWeakObject.h
+END
+XWCollectionViewFlowLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWCollectionViewFlowLayout.m
+END
+XWCollectionViewDelegateManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/1184327589.XWModule/!svn/ver/3/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWCollectionViewDelegateManager.m
+END
+UICollectionReusableView+XW.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionReusableView+XW.h
+END
+NSObject+XW.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/1184327589.XWModule/!svn/ver/3/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/NSObject+XW.h
+END
+XWWeakObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWWeakObject.m
+END
+UICollectionReusableView+XW.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionReusableView+XW.m
+END
+NSObject+XW.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/1184327589.XWModule/!svn/ver/4/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/NSObject+XW.m
+END
+XWWidgetMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/1184327589.XWModule/!svn/ver/3/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/XWWidgetMacros.h
+END
+UICollectionViewCell+XW.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionViewCell+XW.h
+END
+UICollectionView+XW.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/1184327589.XWModule/!svn/ver/3/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionView+XW.h
+END
+UICollectionViewCell+XW.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/1184327589.XWModule/!svn/ver/2/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionViewCell+XW.m
+END
+UICollectionView+XW.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/1184327589.XWModule/!svn/ver/4/trunk/XWNewWidgetDemo/XWNewWidgetDemo/XWWidget/UICollectionView+XW.m
+END
